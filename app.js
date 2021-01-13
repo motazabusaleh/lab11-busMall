@@ -43,10 +43,10 @@ new ItemImage('pen');
 new ItemImage('pet-sweep');
 new ItemImage('scissors');
 new ItemImage('shark');
-// new ItemImage('sweep');
+
 new ItemImage('tauntaun');
 new ItemImage('unicorn');
-// new ItemImage('usb');
+
 new ItemImage('water-can');
 new ItemImage('wine-glass');
 
@@ -208,9 +208,6 @@ imageSelectionThree.addEventListener('click', handleImageSelection);
 
 
 // Function Calls
-// showRandomImage(imageSelectionOne);
-// showRandomImage(imageSelectionTwo);
-// showRandomImage(imageSelectionThree);
 checkLocalStorage();
 
 
